@@ -92,7 +92,7 @@ const LandingPage = () => {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <div className="image-container">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Budgerigar_Melopsittacus_undulatus.jpg" className="d-block w-100"
+                                <img src="https://www.wctropicalbird.com/wp-content/uploads/2016/05/lovebirds-and-cage-need-new-home-521b754b707ac.jpg" className="d-block w-100"
                                      alt="Birdies"/>
                             </div>
                             <div className="carousel-caption">
