@@ -92,7 +92,7 @@ const LandingPage = () => {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <div className="image-container">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Budgerigar_Melopsittacus_undulatus.jpg/1280px-Budgerigar_Melopsittacus_undulatus.jpg" className="d-block w-100"
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Budgerigar_Melopsittacus_undulatus.jpg" className="d-block w-100"
                                      alt="Birdies"/>
                             </div>
                             <div className="carousel-caption">
@@ -112,7 +112,7 @@ const LandingPage = () => {
                         </div>
                         <div className="carousel-item">
                             <div className="image-container">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/YellowLabradorLooking_new.jpg/1280px-YellowLabradorLooking_new.jpg" className="d-block w-100" alt="Dogs"/>
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/YellowLabradorLooking_new.jpg" className="d-block w-100" alt="Dogs" style={{objectPosition: 'center top'}}/>
                             </div>
                             <div className="carousel-caption">
                                 <h5>Doris and Boris</h5>
