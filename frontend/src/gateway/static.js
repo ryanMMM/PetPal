@@ -1,7 +1,7 @@
 /**
  * Endpoint for the backend
  */
-export const BACKEND_ENDPOINT = process.env.NODE_ENV === 'development' ? 'http://127.0.0.1:8000' : 'https://jacob-klimczak.com';
+export const BACKEND_ENDPOINT = process.env.REACT_APP_BACKEND_URL || 'http://127.0.0.1:8000';
 
 // -------------- ROUTES --------------
 
