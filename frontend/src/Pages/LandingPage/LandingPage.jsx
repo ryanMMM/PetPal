@@ -92,7 +92,7 @@ const LandingPage = () => {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <div className="image-container">
-                                <img src="https://top10tale.com/wp-content/uploads/2017/03/Budgerigars.jpg" className="d-block w-100"
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Budgerigar_Melopsittacus_undulatus.jpg/1280px-Budgerigar_Melopsittacus_undulatus.jpg" className="d-block w-100"
                                      alt="Birdies"/>
                             </div>
                             <div className="carousel-caption">
@@ -112,11 +112,11 @@ const LandingPage = () => {
                         </div>
                         <div className="carousel-item">
                             <div className="image-container">
-                                <img src="http://i.huffpost.com/gen/1460322/thumbs/o-PUPPY-facebook.jpg" className="d-block w-100" alt="Awww"/>
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/YellowLabradorLooking_new.jpg/1280px-YellowLabradorLooking_new.jpg" className="d-block w-100" alt="Dogs"/>
                             </div>
                             <div className="carousel-caption">
                                 <h5>Doris and Boris</h5>
-                                <p>PetPal good.</p>
+                                <p>We couldn't imagine our home without Doris and Boris. PetPal made the whole adoption process seamless from start to finish.</p>
                             </div>
                         </div>
                     </div>
